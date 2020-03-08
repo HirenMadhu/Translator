@@ -1,16 +1,7 @@
-# image_text
+# Translator
 
-A new Flutter application.
+A Translator made in Flutter!
 
-## Getting Started
+This is a project we made for a flutter hackathon Hack-19!
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+It was a 24 hour hackathon organized by GDG-Gandhinagar. Onsite problem statement were given and a rapid development was done.
